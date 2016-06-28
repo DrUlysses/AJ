@@ -1,0 +1,9 @@
+package application;
+
+import java.sql.Date;
+
+public class Task {
+	private String label;
+	private String description;
+	Date startDate;
+}
